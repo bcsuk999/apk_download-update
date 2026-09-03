@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "apkUrl": "https://raw.githubusercontent.com/bcsuk999/apk_download-update/main/app-release.apk",
+  "message": "A new SunPay update is available."
+}
