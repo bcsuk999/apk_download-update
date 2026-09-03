@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "build": 2,
+  "version": "1.0.2",
+  "build": 3,
   "apkUrl": "https://raw.githubusercontent.com/bcsuk999/apk_download-update/main/app-release.apk",
-  "message": "New update: improved headers and update checking."
+  "message": "New update: update checking now runs on every app launch."
 }
