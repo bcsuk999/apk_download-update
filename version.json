@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "build": 5,
+  "version": "1.0.5",
+  "build": 6,
   "apkUrl": "https://raw.githubusercontent.com/bcsuk999/apk_download-update/main/app-release.apk",
-  "message": "Update the app for a better experience. We fixed known bugs and enhanced the user experience."
+  "message": "UI improvements: redesigned balance card, added INR/USDT tabs on payin, reward cards, and profile enhancements."
 }
