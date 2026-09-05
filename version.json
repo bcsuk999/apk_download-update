@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "build": 9,
+  "version": "1.0.9",
+  "build": 10,
   "apkUrl": "https://raw.githubusercontent.com/bcsuk999/apk_download-update/main/app-release.apk",
-  "message": "BEP20 network selection fix, random amounts on payin, infinite scroll, backdrop blur update dialog."
+  "message": "Unified records page with Sell/Purchase tabs, INR/USDT sub-tabs, unique codes per INR order (25 random), service popup with Telegram, profile card fix, rounded invite icons, backdrop blur update dialog."
 }
