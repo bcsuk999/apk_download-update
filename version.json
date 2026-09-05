@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "build": 7,
+  "version": "1.0.8",
+  "build": 9,
   "apkUrl": "https://raw.githubusercontent.com/bcsuk999/apk_download-update/main/app-release.apk",
-  "message": "Infinite scrolling on payin list, filter tabs now functional, app update dialog with backdrop blur, toast fixes, and random codes on INR cards."
+  "message": "BEP20 network selection fix, random amounts on payin, infinite scroll, backdrop blur update dialog."
 }
