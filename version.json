@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "build": 11,
+  "version": "1.0.11",
+  "build": 12,
   "apkUrl": "https://raw.githubusercontent.com/bcsuk999/apk_download-update/main/app-release.apk",
-  "message": "Removed unused screens, added pull-to-refresh on deposit page, fixed Telegram support link on mobile, compact support popup."
+  "message": "New INR UPI payment page (timer, order/UPI details, UTR submit), redesigned Tools page with compact withdrawal card and error toasts, renamed payout tools screen."
 }
